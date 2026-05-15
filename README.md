@@ -94,7 +94,7 @@ O projeto possui automação para:
 
 ## Dashboard
 
-[Dashboard](imagens/Dashboard_PowerBI.jpg)
+![Dashboard](images/Medallion.jpg)
 
 
 (INSERIR PRINT)
