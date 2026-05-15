@@ -94,10 +94,15 @@ O projeto possui automação para:
 
 ## Dashboard
 
-![Dashboard](images/Medallion.jpg)
+![Dashboard](images/DashboardBI.jpg)
 
+## Arquitetura Medalhão e Modelo Dimensional
 
-(INSERIR PRINT)
+![Star Schema](images/Medallion.jpg)
+
+A solução foi estruturada utilizando arquitetura Medalhão (Bronze, Silver e Gold), separando ingestão, tratamento e consumo analítico.
+
+A camada Gold foi modelada em Star Schema para otimizar performance analítica e governança dos indicadores.
 
 ---
 
@@ -113,4 +118,4 @@ O projeto possui automação para:
 
 ## Autor
 
-Paulo Roberto
+Paulo Roberto da Silva
