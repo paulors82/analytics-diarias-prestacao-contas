@@ -106,13 +106,13 @@ A camada Gold foi modelada em Star Schema para otimizar performance analítica e
 
 ---
 
-## Resultados Esperados
+## Resultados Obtidos
 
-- maior controle operacional
-- redução de pendências
-- visão gerencial centralizada
-- automatização do acompanhamento
-- suporte à tomada de decisão
+- Automatização do processo de ingestão do ERP
+- Atualização automática do dashboard
+- Criação de alertas automatizados para gestores
+- Visibilidade gerencial sobre pendências de prestação de contas
+- Consolidação analítica inexistente no ERP original
 
 ---
 
