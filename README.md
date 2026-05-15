@@ -94,6 +94,9 @@ O projeto possui automação para:
 
 ## Dashboard
 
+![Dashboard](imagens/Dashcoard_PowerBI.jpg)
+
+
 (INSERIR PRINT)
 
 ---
